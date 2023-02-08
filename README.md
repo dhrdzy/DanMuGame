@@ -9,6 +9,4 @@
 - 加QQ群 115310957， 进群答案：买弹幕游戏
 
 # 1、御魔圣骑  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/御魔圣骑/Game.zip)
-|  效果展示   | 效果展示  |
-|  ----  | ----  |
-| 单元格  | 单元格 |
+<img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/1.png" width="40%" hight="40%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/2.png" width="40%" hight="40%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/3.png" width="40%" hight="40%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/4.png" width="40%" hight="40%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/5.png" width="40%" hight="40%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/6.png" width="40%" hight="40%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/7.png" width="40%" hight="40%">
