@@ -5,5 +5,6 @@
 - 不再使用兑换码！
 - 游戏内扫码支付续费！
 - 持久更新！
+- 加QQ群 115310957
 
 # 1、御魔圣骑  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/御魔圣骑/Game.zip)
