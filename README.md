@@ -7,6 +7,7 @@
 - 持久更新！
 - 预计先开发4款弹幕游戏。
 - 加QQ群 115310957， 进群答案：买弹幕游戏
+- 首次注册，邀请码使用：大乖#2844
 
 # 1、御魔圣骑  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/御魔圣骑/Game.zip)
 <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/2.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/3.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/4.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/5.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/6.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/7.png" width="13%" hight="13%">
