@@ -18,7 +18,7 @@
 
 # 领主争霸(持续优化中)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/领主争霸/Game.zip)
 - 每边6种兵，直接干！
-- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/领主争霸/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/领主争霸/2.png">
+- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/%E9%A2%86%E4%B8%BB%E6%88%98%E4%BA%89/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/%E9%A2%86%E4%B8%BB%E6%88%98%E4%BA%89/2.png">
 
 # 乱斗竞技场(研发中)  下载
 # 守护雅典娜(研发中)  下载
