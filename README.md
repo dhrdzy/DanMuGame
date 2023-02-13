@@ -18,12 +18,12 @@
 # 御魔圣骑(优化接近尾声)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/御魔圣骑/Game.zip)
 - 每边7种不同兵种，可配置每个士兵的血量、攻击力、防御、移动速度，中英文版切换，基地血量，每局持续时间。
 
-- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/7.png" width="13%" hight="13%">
+- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/7.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/9.png" width="13%" hight="13%">
 
 # 领主争霸(优化接近尾声)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/领主争霸/Game.zip)
 
 - 每边6种兵，直接干！可配置每个士兵的血量、攻击力、防御、移动速度，中英文版切换，基地血量，每局持续时间。
-- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/%E9%A2%86%E4%B8%BB%E6%88%98%E4%BA%89/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/%E9%A2%86%E4%B8%BB%E6%88%98%E4%BA%89/2.png" width="13%" hight="13%">
+- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/%E9%A2%86%E4%B8%BB%E6%88%98%E4%BA%89/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/%E9%A2%86%E4%B8%BB%E6%88%98%E4%BA%89/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/%E9%A2%86%E4%B8%BB%E6%88%98%E4%BA%89/3.png" width="13%" hight="13%">
 
 # 乱斗竞技场(研发中)  下载
 # 守护雅典娜(研发中)  下载
