@@ -13,7 +13,7 @@
 - 推广返利玩法，让你在卖游戏的过程中也能赚到钱，也可以0撸游戏免费使用！
 
 # 通用界面
-- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/2.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/3.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/4.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/8.png" width="13%" hight="13%">
+- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/2.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/3.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/4.png" width="14%" hight="14%">
 
 # 御魔圣骑(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/御魔圣骑/Game.zip)
 - 每边7种不同兵种，可配置每个士兵的血量、攻击力、防御、移动速度，中英文版切换，基地血量，每局持续时间。
