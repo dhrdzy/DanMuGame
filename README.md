@@ -26,6 +26,8 @@
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/%E9%A2%86%E4%B8%BB%E6%88%98%E4%BA%89/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/%E9%A2%86%E4%B8%BB%E6%88%98%E4%BA%89/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/%E9%A2%86%E4%B8%BB%E6%88%98%E4%BA%89/3.png" width="13%" hight="13%">
 
 # 乱斗竞技场(优化接近尾声)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/乱斗竞技场/Game.zip)
+- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/乱斗竞技场/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/乱斗竞技场/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/乱斗竞技场/3.png" width="13%" hight="13%">
+
 # 守护雅典娜(研发中)  下载
 # 宠物庄园(研发中)  下载
 # 疯狂追逐赛(研发中)  下载
