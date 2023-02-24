@@ -15,17 +15,17 @@
 # 通用界面
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/2.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/3.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/4.png" width="14%" hight="14%">
 
-# 御魔圣骑(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/御魔圣骑/Game.zip)
+# 御魔圣骑(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/%E9%A3%93%E9%A3%8E%E5%BC%B9%E5%B9%95%E6%B8%B8%E6%88%8F%E5%B9%B3%E5%8F%B0/App.zip)
 - 每边7种不同兵种，可配置每个士兵的血量、攻击力、防御、移动速度，中英文版切换，基地血量，每局持续时间。
 
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/7.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/9.png" width="13%" hight="13%">
 
-# 领主争霸(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/领主争霸/Game.zip)
+# 领主争霸(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/%E9%A3%93%E9%A3%8E%E5%BC%B9%E5%B9%95%E6%B8%B8%E6%88%8F%E5%B9%B3%E5%8F%B0/App.zip)
 
 - 每边6种兵，直接干！可配置每个士兵的血量、攻击力、防御、移动速度，中英文版切换，基地血量，每局持续时间。
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/%E9%A2%86%E4%B8%BB%E6%88%98%E4%BA%89/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/%E9%A2%86%E4%B8%BB%E6%88%98%E4%BA%89/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/%E9%A2%86%E4%B8%BB%E6%88%98%E4%BA%89/3.png" width="13%" hight="13%">
 
-# 乱斗竞技场(优化接近尾声)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/乱斗竞技场/Game.zip)
+# 乱斗竞技场(优化接近尾声)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/%E9%A3%93%E9%A3%8E%E5%BC%B9%E5%B9%95%E6%B8%B8%E6%88%8F%E5%B9%B3%E5%8F%B0/App.zip)
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/乱斗竞技场/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/乱斗竞技场/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/乱斗竞技场/3.png" width="13%" hight="13%">
 
 # 守护雅典娜(研发中)  下载
