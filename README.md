@@ -1,17 +1,15 @@
-# 大量包月弹幕游戏
+# 飓风弹幕游戏平台
 - 只卖游戏，不卖弹幕工具！
 - 内置弹幕处理工具免费用，不用再单独购买弹幕工具！
-- 支持哔哩哔哩、抖音、TikTok、快手、斗鱼、虎牙、视频号！
+- 支持7大平台弹幕处理，哔哩哔哩、抖音、TikTok、快手、斗鱼、虎牙、视频号！
 - 支持单直播平台弹幕解析，多直播平台同时弹幕解析！
 - 不再使用兑换码！
 - 游戏内扫码支付续费！
 - 持久更新！
-- 预计先开发4款弹幕游戏。
-- 加QQ群 115310957， 进群答案：买弹幕游戏
-- 不欢迎任何开发者，开发者进就秒踢！
 - 首次注册，邀请码使用：大乖#2844
 - 推广时使用你自己的邀请码。
-- 推广返利玩法，让你在卖游戏的过程中也能赚到钱，也可以0撸游戏免费使用！
+- 推广返利玩法在本页最下方，让你在卖游戏的过程中也能赚到钱！
+- 直接下载飓风弹幕游戏平台即可开始你的旅程！ [下载](https://gitee.com/Invasion/DanMuGame/releases/download/飓风弹幕游戏平台/飓风弹幕游戏平台.zip)
 
 # 通用界面
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/2.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/3.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/4.png" width="14%" hight="14%">
