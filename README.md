@@ -1,4 +1,4 @@
-# 飓风弹幕游戏平台（先安装环境才能支付成功！） [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
+# 飓风弹幕游戏平台 $\color{#FF0000}{（先安装环境才能支付成功！）}$ [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - 只卖游戏，不卖弹幕工具！
 - 内置弹幕处理工具免费用，不用再单独购买弹幕工具！
 - 支持7大平台弹幕处理，哔哩哔哩、抖音、TikTok、快手、斗鱼、虎牙、视频号！
