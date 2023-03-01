@@ -10,7 +10,7 @@
 - 推广时使用你自己的邀请码。
 - 推广返利玩法在本页最下方，让你在卖游戏的过程中也能赚到钱！
 - 直接下载飓风弹幕游戏平台即可开始你的旅程！ [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
-- 先下载zip平台端，解压，启动“飓风弹幕游戏平台.exe”，直接点登陆不用注册，看好哪个游戏点下载，下载好后渠道该游戏文件夹内安装环境，仔细观看“弹幕环境安装教程.mp4”这个视频，安装一次就好，安装好环境后进入游戏注册，实名，购买包月即可开始玩，邀请码管你推广人要
+- 先下载zip平台端，解压，启动“飓风弹幕游戏平台.exe”，直接点登陆不用注册，看好哪个游戏点下载，下载好后去到该游戏文件夹内安装环境，仔细观看“弹幕环境安装教程.mp4”这个视频，安装一次就好，安装好环境后进入游戏注册，实名，购买包月即可开始玩，邀请码管你推广人要
 
 # 通用界面
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/2.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/3.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/4.png" width="14%" hight="14%">
