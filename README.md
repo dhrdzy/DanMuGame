@@ -1,4 +1,4 @@
-# 飓风弹幕游戏平台 $\color{#FF0000}{（先安装环境才能支付成功！）}$ [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
+# 飓风弹幕游戏平台 （先安装环境才能支付成功！） [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - 只卖游戏，不卖弹幕工具！
 - 内置弹幕处理工具免费用，不用再单独购买弹幕工具！
 - 支持7大平台弹幕处理，哔哩哔哩、抖音、TikTok、快手、斗鱼、虎牙、视频号！
@@ -30,6 +30,10 @@
 
 # 龙城之战(研发中)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/龙城之战/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/龙城之战/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/龙城之战/3.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/龙城之战/4.png" width="13%" hight="13%">
+
+# 森林马拉松3D(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
+- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/森林马拉松3D/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/森林马拉松3D/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/森林马拉松3D/3.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/森林马拉松3D/4.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/森林马拉松3D/5.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/森林马拉松3D/6.png" width="13%" hight="13%">
+- 赛跑，扔道具，变身闪电侠！
 
 
 # 森林马拉松3D(研发中)  下载
