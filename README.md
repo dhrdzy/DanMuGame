@@ -33,7 +33,7 @@
 
 # 森林马拉松3D(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/森林马拉松3D/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/森林马拉松3D/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/森林马拉松3D/3.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/森林马拉松3D/4.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/森林马拉松3D/5.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/森林马拉松3D/6.png" width="13%" hight="13%">
-- 赛跑，扔道具，变身闪电侠！
+- 赛跑，扔道具，拿第一！
 
 # 太空马拉松(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/太空马拉松/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/太空马拉松/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/太空马拉松/3.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/太空马拉松/4.png" width="13%" hight="13%">
