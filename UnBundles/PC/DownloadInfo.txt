@@ -1,3 +1,0 @@
-实名认证.ui	16bccfc50c4a1086c26dad3ed0b9ef05	3622
-授权时间.ui	547f7715191bb92ec3746b0ffaa4d2d8	6370
-注册登录.ui	c50ba7f9f2ae9b42991f3be4373cabe9	5332
