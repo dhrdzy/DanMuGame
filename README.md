@@ -39,10 +39,13 @@
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/太空马拉松/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/太空马拉松/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/太空马拉松/3.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/太空马拉松/4.png" width="13%" hight="13%">
 - 赛跑，扔道具，拿第一！
 
+# 宠物庄园(正式上线)  [下载](https://gitee.com/Invasion/DanMuGame/releases/download/App/App.zip)
+- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/宠物庄园/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/宠物庄园/2.png" width="13%" hight="13%">
+- 可培养多个宠物，充钻干，突破、进化、升星、进阶、转生功能齐全，道具多样：突破丹、进化石、升星石、进阶石、转生石，还有各种强化挂机辅助丹药，打BOSS拿排名，掉落多样，快来占领自己的场地吧！
+
 
 # 疯狂蹦迪(赠送版)(研发中)  下载
 # 疯狂蹦迪(收费版)(研发中)  下载
-# 宠物庄园(研发中)  下载
 # 升官发财(研发中)  下载
 # 守护家园(研发中)  下载
 # 赛车竞技(直道版)(研发中)  下载
