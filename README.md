@@ -43,8 +43,11 @@
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/宠物庄园/1.jpg" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/宠物庄园/2.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/宠物庄园/3.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/宠物庄园/4.png" width="13%" hight="13%">
 - 可培养多个宠物，充钻干，突破、进化、升星、进阶、转生功能齐全，道具多样：突破丹、进化石、升星石、进阶石、转生石，还有各种强化挂机辅助丹药，打BOSS拿排名，掉落多样，快来占领自己的场地吧！
 
+# 疯狂蹦迪(免费赠送版)(正式上线)  下载  [下载](https://gitee.com/Invasion/DanMuGame/releases/download/App/App.zip)
+- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂蹦迪/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂蹦迪/2.png" width="13%" hight="13%">
+- 随别的游戏购买时一起赠送到那台机器上，跳舞，移动，变大，查看位置
 
-# 疯狂蹦迪(赠送版)(研发中)  下载
+
 # 疯狂蹦迪(收费版)(研发中)  下载
 # 赛车竞技(直道版)(研发中)  下载
 # 赛车竞技(跑圈版)(研发中)  下载
