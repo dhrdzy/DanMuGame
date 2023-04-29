@@ -41,7 +41,7 @@
 
 # 宠物庄园(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/宠物庄园/1.jpg" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/宠物庄园/2.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/宠物庄园/3.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/宠物庄园/4.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/宠物庄园/5.png" width="13%" hight="13%">
-- 可培养多个宠物，充钻干，突破、进化、升星、进阶、转生功能齐全，道具多样：突破丹、进化石、升星石、进阶石、转生石，还有各种强化挂机辅助丹药，打BOSS拿排名，掉落多样，快来占领自己的场地吧！
+- 全新的喂养幻化系统，230多个宝可梦模型，可培养多个宠物，打造自己的宠物战队，充钻干，突破、进化、升星、进阶、转生功能齐全，道具多样：突破丹、进化石、升星石、进阶石、转生石，还有各种强化挂机辅助丹药，打BOSS拿排名，掉落多样，后期的庄园战，各大庄园之间对战每晚对决，快来占领自己的场地吧！
 
 # 疯狂蹦迪(免费赠送版)(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂蹦迪/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂蹦迪/2.png" width="13%" hight="13%">
