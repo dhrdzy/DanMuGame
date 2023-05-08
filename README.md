@@ -1,4 +1,4 @@
-# 飓风弹幕游戏平台 （先安装环境才能支付成功！） [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
+# 飓风弹幕游戏平台 $\color{#FF0000}{（全平台游戏包月只需1200元！）}$ [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - 只卖游戏，不卖弹幕工具！
 - 内置弹幕处理工具免费用，不用再单独购买弹幕工具！
 - 支持7大平台弹幕处理，哔哩哔哩、抖音、TikTok、快手、斗鱼、虎牙、视频号(4月17日更新超级稳定)！机器环境不同，连接的稳定程度不同。
@@ -13,7 +13,7 @@
 - 先下载zip平台端，解压，启动“飓风弹幕游戏平台.exe”，直接点登陆不用注册，看好哪个游戏点下载，下载好后去到该游戏文件夹内安装环境，仔细观看“弹幕环境安装教程.mp4”这个视频，安装一次就好，安装好环境后进入游戏注册，实名，购买包月即可开始玩，邀请码管你推广人要
 
 # 通用界面
-- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/2.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/3.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/4.png" width="14%" hight="14%">
+- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/飓风弹幕游戏平台/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/飓风弹幕游戏平台/2.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/2.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/3.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/4.png" width="14%" hight="14%">
 
 # 御魔圣骑(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - 每边7种不同兵种，可配置每个士兵的血量、攻击力、防御、移动速度，中英文版切换，基地血量，每局持续时间。
