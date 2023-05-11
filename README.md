@@ -51,10 +51,13 @@
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/永恒拉力赛/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/永恒拉力赛/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/永恒拉力赛/3.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/永恒拉力赛/4.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/永恒拉力赛/5.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/永恒拉力赛/6.png" width="13%" hight="13%">
 - 一场永恒的赛车拉力赛，包含加速、特写、翻倍积分、加汽油、临时维修、大修，3种盲盒买车等功能，还有最新的的世界排名系统，喜欢的直接买！
 
+# 公路飙车(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
+- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/公路飙车/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/公路飙车/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/公路飙车/3.png" width="13%" hight="13%">
+- 赛跑，扔道具，拿第一！
 
+
+# 森林飘移(跑圈版)(研发中)  下载
 # 疯狂蹦迪(收费版)(研发中)  下载
-# 赛车竞技(直道版)(研发中)  下载
-# 森林马拉松3D(跑圈版)(研发中)  下载
 # 守护家园(研发中)  下载
 # 升官发财(研发中)  下载
 # 火星计划(研发中)  下载
