@@ -1,4 +1,5 @@
-# 飓风弹幕游戏平台 $\color{#FF0000}{（全平台游戏包月只需1200元！）}$ [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
+# 飓风弹幕游戏平台 $\color{#FF0000}{（全平台游戏免费播！不用加任何公会！）}$ [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
+- 免费分成模式，全平台包月，单款游戏包月任你选！
 - 只卖游戏，不卖弹幕工具！
 - 内置弹幕处理工具免费用，不用再单独购买弹幕工具！
 - 支持7大平台弹幕处理，哔哩哔哩、抖音、TikTok、快手、斗鱼、虎牙、视频号(4月17日更新超级稳定)！机器环境不同，连接的稳定程度不同。
