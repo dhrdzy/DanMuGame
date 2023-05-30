@@ -23,7 +23,7 @@
 - 预计可配置200多种士兵，50多种场景，5种UI，主播自己配置，模型还会更多！卡通风、写实风、科技风的都有，会越加越多，玩这一款对战就够了！
 
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/1.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/2.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/3.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/4.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/5.jpg" width="13%" hight="13%">
-- 
+
 # 御魔圣骑(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - 每边7种不同兵种，可配置每个士兵的血量、攻击力、防御、移动速度，中英文版切换，基地血量，每局持续时间。
 
