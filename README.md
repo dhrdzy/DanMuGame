@@ -16,6 +16,14 @@
 - 直接下载飓风弹幕游戏平台即可开始你的旅程！ [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - 先下载zip平台端，解压，启动“飓风弹幕游戏平台.exe”，直接点登陆不用注册，看好哪个游戏点下载，下载好后去到该游戏文件夹内安装环境，仔细观看“弹幕环境安装教程.mp4”这个视频，安装一次就好，安装好环境后进入游戏注册，实名，购买包月即可开始玩，邀请码管你推广人要
 
+# 免费模式-预充优惠
+- 一次性预充金额小于1万时，单倍积分，相当于吃主播25%的分成。
+- 一次性预充金额大于等于1万时，2倍积分，等于吃主播12%的分成。
+- 一次性预充金额大于等于2万时，3倍积分，等于吃主播9%的分成。
+- 一次性预充金额大于等于3万时，4倍积分，等于吃主播6%的分成。
+- 最低吃的分成6%比国内任何平台都低！
+- $\color{#FF0000}{优惠不是没给你，是你自己没把握好而已。}$
+
 # 通用界面
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/飓风弹幕游戏平台/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/飓风弹幕游戏平台/2.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/2.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/3.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/4.png" width="14%" hight="14%">
 
@@ -72,7 +80,6 @@
 # 火星计划(研发中)  下载
 # 宝藏帝国(研发中)  下载
 # 恐怖鬼屋(研发中)  下载
-# 传奇乱斗(研发中)  下载
 # 拔河比赛(研发中)  下载
 
 
