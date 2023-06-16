@@ -66,7 +66,7 @@
 
 # 疯狂蹦迪(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂蹦迪/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂蹦迪/2.png" width="13%" hight="13%">
-- 随别的游戏购买时一起赠送到那台机器上，跳舞，移动，变大，查看位置
+- 几十种舞蹈，移动，变大，查看位置，翅膀盲盒，前3上台，积分榜
 
 # 永恒拉力赛(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/永恒拉力赛/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/永恒拉力赛/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/永恒拉力赛/3.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/永恒拉力赛/4.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/永恒拉力赛/5.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/永恒拉力赛/6.png" width="13%" hight="13%">
