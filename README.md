@@ -64,7 +64,7 @@
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/宠物庄园/1.jpg" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/宠物庄园/2.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/宠物庄园/3.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/宠物庄园/4.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/宠物庄园/5.png" width="13%" hight="13%">
 - 全新的喂养幻化系统，230多个宝可梦模型，可培养多个宠物，打造自己的宠物战队，充钻干，突破、进化、升星、进阶、转生功能齐全，道具多样：突破丹、进化石、升星石、进阶石、转生石，还有各种强化挂机辅助丹药，打BOSS拿排名，掉落多样，后期的庄园战，各大庄园之间对战每晚对决，快来占领自己的场地吧！
 
-# 疯狂蹦迪(免费赠送版)(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
+# 疯狂蹦迪(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂蹦迪/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂蹦迪/2.png" width="13%" hight="13%">
 - 随别的游戏购买时一起赠送到那台机器上，跳舞，移动，变大，查看位置
 
@@ -77,15 +77,15 @@
 - 赛跑，扔道具，拿第一！
 
 
-# 森林飘移(跑圈版)(研发中)  下载
-# 疯狂蹦迪(收费版)(研发中)  下载
+
+# 飓风云直播中心(研发中)  下载
 # 守护家园(研发中)  下载
-# 升官发财(研发中)  下载
-# 火星计划(研发中)  下载
 # 宝藏帝国(研发中)  下载
+# 火星计划(研发中)  下载
 # 恐怖鬼屋(研发中)  下载
 # 拔河比赛(研发中)  下载
-
+# 森林飘移(跑圈版)(研发中)  下载
+# 升官发财(研发中)  下载
 
 
 # 推广返利说明
@@ -93,6 +93,6 @@
 - 1、A帐号实名御魔圣骑，B帐号用A帐号邀请码注册实名购买御魔圣骑，A有返利。
 - 2、A帐号没实名领主争霸，B帐号用A帐号邀请码注册实名购买领主争霸，A无返利。
 - 注意：A帐号与B帐号相同支付宝信息时，B无法给A返利。
-- 初始帐号默认返利12%。
+- 初始帐号默认返利8%。
 - 如何修改设置好的支付宝信息？
 - 答：换台机器登录那款游戏，重新实名绑定就好。
