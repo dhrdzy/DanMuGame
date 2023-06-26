@@ -36,6 +36,9 @@
 
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/1.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/2.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/3.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/4.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/5.jpg" width="13%" hight="13%">
 
+# 飓风云直播中心(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
+- 可在云直播中心内随意选择别人已经开播并共享的游戏源，并且和你选择的人的直播间时时同步数据，可实现N个主播同一个直播间内同步直播，那些1V1都弱爆了，不用任何配置，无需好电脑，能让价值150元的垃圾电脑播出的画面质量和价值1万元电脑播出的画面质量一样！纯纯的技术碾压。
+
 # 御魔圣骑(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - 每边7种不同兵种，可配置每个士兵的血量、攻击力、防御、移动速度，中英文版切换，基地血量，每局持续时间。
 
@@ -78,7 +81,6 @@
 
 
 
-# 飓风云直播中心(研发中)  下载
 # 守护家园(研发中)  下载
 # 宝藏帝国(研发中)  下载
 # 火星计划(研发中)  下载
