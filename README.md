@@ -1,4 +1,5 @@
 # 飓风弹幕游戏平台 $\color{#FF0000}{（全平台游戏免费播！不用加任何公会！）}$ [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
+- $\color{#FF0000}{单款游戏包月350元，全平台包月1100元}$
 - 多种模式任你选！
 - 免费分成模式(礼物积分抵扣礼物功能触发) $\color{#FF0000}{(适合想试水直播，测试，不知道自己流量的主播)}$
 - 全平台包月 $\color{#FF0000}{(适合流量比较大的主播，知道自己挣多少钱的主播，并且想经常切换游戏播的，比免费模式挣的多的多)}$
@@ -27,6 +28,13 @@
 - 当前累积预充金额大于等于200万时，200倍积分，等于吃主播0.1%的分成。
 - 全球最低分成，比任何平台都低！
 - $\color{#FF0000}{优惠不是没给你，是你自己没把握好而已。}$
+
+# $\color{#FF0000}{源码购买}$
+- 出售弹幕处理源码，每个平台源码2000，7个平台一起打包卖1万2！
+- 出售所有游戏源码，每款2万！
+- 出售平台端源码！5万拿走，包含服务器（支付，存储游戏数据等一系列功能），客户端所有代码
+- 公司快速起步复制成功，必买源码，诚信第一，白嫖信息者勿扰！
+- 下载平台端，在平台端内下载游戏进入实名后，即可联系到作者。
 
 # 通用界面
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/飓风弹幕游戏平台/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/飓风弹幕游戏平台/2.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/2.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/3.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/4.png" width="14%" hight="14%">
