@@ -41,7 +41,7 @@
 - 兑换平台内某款游戏项目源代码（不含弹幕处理代码），扣除2万累积消费值。
 - 兑换某个平台的弹幕处理源代码，扣除5000累积消费值。
 - 购买包月、全平台包月、预充礼物积分、购买兑换码，所有平台内的消费行为均可累计消费值。
-- 累积功能现在开启！
+- 累积消费值功能现在开启，开启时间：2023年7月9日0点。
 
 # 通用界面
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/飓风弹幕游戏平台/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/飓风弹幕游戏平台/2.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/2.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/3.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/4.png" width="14%" hight="14%">
