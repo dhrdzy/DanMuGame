@@ -56,7 +56,7 @@
 
 # 疯狂弹球(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - 4方对战，弹球游戏，tiktok内有头像，可加球数量，可加速，可放大。
-- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂弹球/1.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂弹球/2.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂弹球/3.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂弹球/4.jpg" width="13%" hight="13%">
+- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂弹球/1.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂弹球/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂弹球/3.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂弹球/4.png" width="13%" hight="13%">
 
 # 御魔圣骑(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - 每边7种不同兵种，可配置每个士兵的血量、攻击力、防御、移动速度，中英文版切换，基地血量，每局持续时间。
