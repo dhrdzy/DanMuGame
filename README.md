@@ -48,20 +48,21 @@
 
 # 终极对战魔盒(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - 预计可配置200多种士兵，50多种场景，5种UI，主播自己配置，模型还会更多！卡通风、写实风、科技风的都有，会越加越多，玩这一款对战就够了！
-
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/1.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/2.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/3.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/4.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/5.jpg" width="13%" hight="13%">
 
 # 飓风云直播中心(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - 可在云直播中心内随意选择别人已经开播并共享的游戏源，并且和你选择的人的直播间时时同步数据，可实现N个主播同一个直播间内同步直播，那些1V1都弱爆了，不用任何配置，无需好电脑，能让价值150元的垃圾电脑播出的画面质量和价值1万元电脑播出的画面质量一样！纯纯的技术碾压。
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/飓风云直播中心/1.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/飓风云直播中心/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/飓风云直播中心/3.png" width="13%" hight="13%">
 
+# 疯狂弹球(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
+- 4方对战，弹球游戏，tiktok内有头像，可加球数量，可加速，可放大。
+- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂弹球/1.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂弹球/2.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂弹球/3.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂弹球/4.jpg" width="13%" hight="13%">
+
 # 御魔圣骑(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - 每边7种不同兵种，可配置每个士兵的血量、攻击力、防御、移动速度，中英文版切换，基地血量，每局持续时间。
-
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/7.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/9.png" width="13%" hight="13%">
 
 # 领主争霸(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
-
 - 每边6种兵，直接干！可配置每个士兵的血量、攻击力、防御、移动速度，中英文版切换，基地血量，每局持续时间。
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/%E9%A2%86%E4%B8%BB%E6%88%98%E4%BA%89/1.png" width="14%" hight="14%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/%E9%A2%86%E4%B8%BB%E6%88%98%E4%BA%89/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/%E9%A2%86%E4%B8%BB%E6%88%98%E4%BA%89/3.png" width="13%" hight="13%">
 
