@@ -54,10 +54,6 @@
 - 可在云直播中心内随意选择别人已经开播并共享的游戏源，并且和你选择的人的直播间时时同步数据，可实现N个主播同一个直播间内同步直播，那些1V1都弱爆了，不用任何配置，无需好电脑，能让价值150元的垃圾电脑播出的画面质量和价值1万元电脑播出的画面质量一样！纯纯的技术碾压。
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/飓风云直播中心/1.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/飓风云直播中心/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/飓风云直播中心/3.png" width="13%" hight="13%">
 
-# 疯狂弹球(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
-- 4方对战，弹球游戏，tiktok内有头像，可加球数量，可加速，可放大。
-- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂弹球/1.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂弹球/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂弹球/3.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/疯狂弹球/4.png" width="13%" hight="13%">
-
 # 御魔圣骑(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - 每边7种不同兵种，可配置每个士兵的血量、攻击力、防御、移动速度，中英文版切换，基地血量，每局持续时间。
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/7.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/御魔圣骑/9.png" width="13%" hight="13%">
