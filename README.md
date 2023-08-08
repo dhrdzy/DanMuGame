@@ -50,7 +50,7 @@
 - 预计可配置200多种士兵，50多种场景，5种UI，主播自己配置，模型还会更多！卡通风、写实风、科技风的都有，会越加越多，玩这一款对战就够了！
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/1.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/2.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/3.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/4.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/终极对战魔盒/5.jpg" width="13%" hight="13%">
 
-# 恶魔宿舍2(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
+# 恐怖鬼屋(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - 防守怪物入侵，经典模式，无尽模式，人怪对战模式，多种怪物，多种场景，人物装备系统，盲盒换装带属性值，酷炫装备，有技能干怪物，怪物也有技能！
 - <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/恶魔宿舍2/1.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/恶魔宿舍2/2.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/恶魔宿舍2/3.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/恶魔宿舍2/4.jpg" width="13%" hight="13%">
 
@@ -101,7 +101,6 @@
 # 守护家园(研发中)  下载
 # 宝藏帝国(研发中)  下载
 # 火星计划(研发中)  下载
-# 恐怖鬼屋(研发中)  下载
 # 拔河比赛(研发中)  下载
 # 森林飘移(跑圈版)(研发中)  下载
 # 升官发财(研发中)  下载
