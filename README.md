@@ -52,7 +52,7 @@
 
 # 恐怖鬼屋(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - 防守怪物入侵，经典模式，无尽模式，人怪对战模式，多种怪物，多种场景，人物装备系统，盲盒换装带属性值，酷炫装备，有技能干怪物，怪物也有技能！
-- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/恶魔宿舍2/1.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/恶魔宿舍2/2.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/恶魔宿舍2/3.jpg" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/恶魔宿舍2/4.jpg" width="13%" hight="13%">
+- <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/恐怖鬼屋/1.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/恐怖鬼屋/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/恐怖鬼屋/3.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/DanMuGame/blob/main/恐怖鬼屋/4.png" width="13%" hight="13%">
 
 # 飓风云直播中心(正式上线)  [下载](https://github.com/dhrdzy/DanMuGame/releases/download/App/App.zip)
 - 可在云直播中心内随意选择别人已经开播并共享的游戏源，并且和你选择的人的直播间时时同步数据，可实现N个主播同一个直播间内同步直播，那些1V1都弱爆了，不用任何配置，无需好电脑，能让价值150元的垃圾电脑播出的画面质量和价值1万元电脑播出的画面质量一样！纯纯的技术碾压。
